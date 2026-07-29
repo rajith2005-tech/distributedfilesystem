@@ -3,8 +3,8 @@ import 'package:distributedfilesystem/welcomePage/welcomePage.dart';
 
 
 
-void main() {
-  runApp(const MyApp());
+void main(){
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
